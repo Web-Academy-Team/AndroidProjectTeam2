@@ -1,2 +1,2 @@
 # AndroidProjectTeam2
-For Android Team2
+Repository for Team2 - theChat
