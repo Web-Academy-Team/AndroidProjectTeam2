@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\user\AndroidStudioProjects\SinchJordan\android-messaging-tutorial\MessagingTutorial\build\intermediates\exploded-aar\com.android.support\appcompat-v7\19.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28">
+        <dex dex="C:\Users\user\AndroidStudioProjects\SinchJordan\android-messaging-tutorial\MessagingTutorial\build\intermediates\pre-dexed\debug\classes-8068d514454bec3e90fdeea986b6ef1f77407bbc.jar" />
+    </item>
+    <item
+        jar="C:\Users\user\AndroidStudioProjects\SinchJordan\android-messaging-tutorial\MessagingTutorial\libs\Parse-1.6.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="2a812174191af5a4513a873602a765b0171f252c">
+        <dex dex="C:\Users\user\AndroidStudioProjects\SinchJordan\android-messaging-tutorial\MessagingTutorial\build\intermediates\pre-dexed\debug\Parse-1.6.0-595e44d8126880892c874acbcc862246d0978eb5.jar" />
+    </item>
+    <item
+        jar="C:\Users\user\AndroidStudioProjects\SinchJordan\android-messaging-tutorial\MessagingTutorial\libs\sinch-android-rtc-3.6.2.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="2c29e42a729e108f4572076c1b2c66b56ebf7bae">
+        <dex dex="C:\Users\user\AndroidStudioProjects\SinchJordan\android-messaging-tutorial\MessagingTutorial\build\intermediates\pre-dexed\debug\sinch-android-rtc-3.6.2-632e0df0ea319b531cecd3fc3c4d1ce1c94d5414.jar" />
+    </item>
+    <item
+        jar="C:\Users\user\AppData\Local\Android\sdk1\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="C:\Users\user\AndroidStudioProjects\SinchJordan\android-messaging-tutorial\MessagingTutorial\build\intermediates\pre-dexed\debug\support-v4-19.1.0-f086a0c655b4c25fada9cc2a9df25943a506c320.jar" />
+    </item>
+
+</items>
